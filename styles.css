@@ -1,0 +1,53 @@
+body{
+    background-image: url("/LOGO.jpg");
+    background-size: cover;
+}
+#container-1 h1{
+    font-weight: 50;
+    width: fit-content;
+    position: relative;
+    top: 50px;
+    left: 30px;
+    color: white;
+}
+#what h3{
+    font-weight: 50;
+    width: fit-content;
+    position: relative;
+    top:100px;
+    margin: auto;
+    color: white;
+}
+.button{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    padding: 20px;
+    position: relative;
+    top: 150px;
+    margin: auto;
+}
+.buttons{
+    padding: 20px;
+}
+#button1{
+    outline: none;
+    width: 200px;
+    height: 70px;
+    border-radius: 15px 0 15px 0;
+    background-color: #fff;
+}
+#button2{
+    outline: none;
+    width: 200px;
+    height: 70px;
+    border-radius: 15px 0 15px 0;
+    background-color: #fff;
+}
+#button3{
+    outline: none;
+    width: 200px;
+    height: 70px;
+    border-radius: 15px 0 15px 0;
+    background-color: #fff;
+}
