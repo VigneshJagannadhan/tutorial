@@ -1,6 +1,8 @@
 body{
     background-image: url("/LOGO.jpg");
     background-size: cover;
+    
+    background-position: center;
 }
 #container-1 h1{
     font-weight: 50;
