@@ -130,3 +130,16 @@ table {
     width: 90%;
     margin: auto;
 }  
+footer{
+    position: relative;
+    top: 194px;
+    color: white;
+    height: 100px;
+    
+}
+#footer{
+    margin: auto;
+    width: fit-content;
+    position: relative;
+    top: 50px;
+}
