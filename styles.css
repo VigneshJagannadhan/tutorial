@@ -55,21 +55,36 @@ body{
     width: 200px;
     height: 70px;
     border-radius: 15px 0 15px 0;
-    background-color: #fff;
+    font-weight: 1000;
+    letter-spacing:6px;
+    color: burlywood;
+    font-size: 20px;
+    background-color: transparent;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6); 
 }
 #button2{
     outline: none;
     width: 200px;
     height: 70px;
+    font-size: 20px;
+    font-weight: 1000;
+    letter-spacing:6px;
     border-radius: 15px 0 15px 0;
-    background-color: #fff;
+    color: burlywood;
+    background-color: transparent;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6); 
 }
 #button3{
     outline: none;
     width: 200px;
     height: 70px;
+    font-size: 20px;
+    font-weight: 1000;
+    letter-spacing:6px;
     border-radius: 15px 0 15px 0;
-    background-color: #fff;
+    color: burlywood;
+    background-color: transparent;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6); 
 }
 footer{
     position: relative;
